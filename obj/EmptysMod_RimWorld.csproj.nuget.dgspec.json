@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\abein\\source\\repos\\EmptysMod_RimWorld\\EmptysMod_RimWorld.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\abein\\source\\repos\\EmptysMod_RimWorld\\EmptysMod_RimWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\abein\\source\\repos\\EmptysMod_RimWorld\\EmptysMod_RimWorld.csproj",
+        "projectName": "EmptysMod_RimWorld",
+        "projectPath": "C:\\Users\\abein\\source\\repos\\EmptysMod_RimWorld\\EmptysMod_RimWorld.csproj",
+        "packagesPath": "C:\\Users\\abein\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abein\\source\\repos\\EmptysMod_RimWorld\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\abein\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Krafs.Rimworld.Ref": {
+              "target": "Package",
+              "version": "[1.4.3542, )"
+            },
+            "Lib.Harmony": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.AssemblyInfo.cs
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\bin\Debug\net48\EmptysMod_RimWorld.dll
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\bin\Debug\net48\EmptysMod_RimWorld.pdb
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.dll
+C:\Program Files (x86)\Rimworld\Mods\Mod\Source\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.pdb
+C:\Users\abein\source\repos\EmptysMod_RimWorld\bin\Debug\net48\EmptysMod_RimWorld.dll
+C:\Users\abein\source\repos\EmptysMod_RimWorld\bin\Debug\net48\EmptysMod_RimWorld.pdb
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.csproj.AssemblyReference.cache
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.AssemblyInfoInputs.cache
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.AssemblyInfo.cs
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.csproj.CoreCompileInputs.cache
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.dll
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.pdb
+C:\Users\abein\source\repos\EmptysMod_RimWorld\bin\Debug\net48\0Harmony.dll
+C:\Users\abein\source\repos\EmptysMod_RimWorld\obj\Debug\net48\EmptysMod_RimWorld.csproj.CopyComplete
+C:\Program Files (x86)\RimWorld v1.4.3580 rev1304\Mods\RaxMod\1.4\Assemblies\Debug\net48\EmptysMod_RimWorld.dll
+C:\Program Files (x86)\RimWorld v1.4.3580 rev1304\Mods\RaxMod\1.4\Assemblies\Debug\net48\EmptysMod_RimWorld.pdb

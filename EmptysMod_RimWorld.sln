@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmptysMod_RimWorld", "EmptysMod_RimWorld.csproj", "{769ACAD0-5D73-44DC-AC54-B0450CBB4E54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		1.4|Any CPU = 1.4|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769ACAD0-5D73-44DC-AC54-B0450CBB4E54}.1.4|Any CPU.ActiveCfg = 1.4|Any CPU
+		{769ACAD0-5D73-44DC-AC54-B0450CBB4E54}.1.4|Any CPU.Build.0 = 1.4|Any CPU
+		{769ACAD0-5D73-44DC-AC54-B0450CBB4E54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769ACAD0-5D73-44DC-AC54-B0450CBB4E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769ACAD0-5D73-44DC-AC54-B0450CBB4E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769ACAD0-5D73-44DC-AC54-B0450CBB4E54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6EABD8E-88F7-4ADC-BDC1-1777835BBA9D}
+	EndGlobalSection
+EndGlobal

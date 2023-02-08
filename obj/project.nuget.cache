@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dc13yvMJap7QGvv8p9o8RkFmHAUAKfhCUD2eYXl+BNMfPNHYB62Rlnica9N00V8xSTWMjwVzB7tNdy/0pLJQyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abein\\source\\repos\\EmptysMod_RimWorld\\EmptysMod_RimWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abein\\.nuget\\packages\\krafs.rimworld.ref\\1.4.3542\\krafs.rimworld.ref.1.4.3542.nupkg.sha512",
+    "C:\\Users\\abein\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
